@@ -1,3 +1,5 @@
+"use strict";
+exports.__esModule = true;
 function othername() {
     var input = document.getElementById("userInput").value;
     if (input < 50) {
